@@ -1,0 +1,27 @@
+{
+  "name": "ts-nameof-loader",
+  "version": "1.0.0",
+  "description": "a webpack loader that allows you to use the ts-nameof library in webpack ",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kukks/ts-nameof-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "ts",
+    "loader",
+    "nameof",
+    "kukks"
+  ],
+  "author": "Kukks (Andrew Camilleri)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kukks/ts-nameof-loader/issues"
+  },
+  "homepage": "https://github.com/Kukks/ts-nameof-loader#readme",
+  "devDependencies": {
+    "ts-nameof": "^0.8.0"
+  }
+}
