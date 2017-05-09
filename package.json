@@ -1,6 +1,6 @@
 {
   "name": "ts-nameof-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a webpack loader that allows you to use the ts-nameof library in webpack ",
   "main": "main.js",
   "repository": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Kukks/ts-nameof-loader#readme",
   "devDependencies": {
-    "ts-nameof": "^0.8.0"
+    "ts-nameof": "^0.9.0"
   }
 }
