@@ -4,9 +4,9 @@ a webpack loader that allows you to use the ts-nameof lib (https://github.com/ds
 `npm i ts-nameof-loader --save-dev`
 
 ### Example Usage
-```
-    { 
-		test: /\.ts$/i,
-		use: ['awesome-typescript-loader', 'ts-nameof-loader']
-	}
+```javascript
+{ 
+  test: /\.ts$/i,
+  use: ['awesome-typescript-loader', 'ts-nameof-loader']
+}
 ```
